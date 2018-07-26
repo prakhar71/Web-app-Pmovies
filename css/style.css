@@ -1,0 +1,12 @@
+
+#movieCont img{
+    width:100%;
+}
+
+#movieCont .col-md-3 .row{
+    height: 390px;
+}
+
+#movieCont .col-md-3 img{
+    height: 240px;
+}
